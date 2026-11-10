@@ -14,6 +14,8 @@ python_version: "3.12"
 
 # runbook-copilot
 
+[![Tests](https://github.com/itskeeeyin/runbook-copilot/actions/workflows/tests.yml/badge.svg)](https://github.com/itskeeeyin/runbook-copilot/actions/workflows/tests.yml)
+
 ## Public demo
 
 Ask a question, read the sources, approve a practice restart, then read the filled triage and a lessons-learned note. Nothing in this path touches a real process.
